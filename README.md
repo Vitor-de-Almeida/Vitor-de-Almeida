@@ -1,5 +1,4 @@
 - Hi, I’m @Vitor-de-Almeida. I am lieutnant at military police of Parana, Brazil.
-- Deputy Head of the support sector of the Technological Development and Quality Directorate.
 - I am studying the third period of software engineering at Uninter University.
 - I’m interested in achieve knowlodgment and professional experience.
 - 🌱 I’m currently learning HTML5, CSS, JS and Python.
